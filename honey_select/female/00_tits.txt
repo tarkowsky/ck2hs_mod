@@ -1,0 +1,20 @@
+trait{
+	trigger = { has_trait = tiny_tits }
+	apply_patch = tiny_tits
+} {
+	trigger = { has_trait = small_tits }
+	apply_patch = small_tits
+} {
+	trigger = { has_trait = regular_tits }
+	apply_patch = regular_tits
+} {
+	trigger = { has_trait = big_tits }
+	apply_patch = big_tits
+} {
+	trigger = { has_trait = huge_tits }
+	apply_patch = huge_tits
+} {
+	trigger = { has_trait = enormous_tits }
+	apply_patch = enormous_tits
+}
+trait_patch = gigantic_tits

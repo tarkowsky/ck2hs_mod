@@ -1,0 +1,83 @@
+{
+	trigger = {
+		has_ethnicity_group = west_slavic
+	}
+	branch = {
+		{
+			trigger = { has_dna = { eyes = 1/10 } }
+			apply_patch = ws_eyes1
+		} {
+			trigger = { has_dna = { eyes = 2/10 } }
+			apply_patch = ws_eyes2
+		} {
+			trigger = { has_dna = { eyes = 3/10 } }
+			apply_patch = ws_eyes3
+		} {
+			trigger = { has_dna = { eyes = 4/10 } }
+			apply_patch = ws_eyes4
+		} {
+			trigger = { has_dna = { eyes = 5/10 } }
+			apply_patch = ws_eyes5
+		} {
+			trigger = { has_dna = { eyes = 6/10 } }
+			apply_patch = ws_eyes6
+		} {
+			trigger = { has_dna = { eyes = 7/10 } }
+			apply_patch = ws_eyes7
+		} {
+			trigger = { has_dna = { eyes = 8/10 } }
+			apply_patch = ws_eyes8
+		} {
+			trigger = { has_dna = { eyes = 9/10 } }
+			apply_patch = ws_eyes9
+		} {
+			trigger = { has_dna = { eyes = 10/10 } }
+			apply_patch = ws_eyes10
+		} {
+			trigger = { has_dna = { eye_color = 1/8 } }
+			apply_patch = ws_eyecolor1
+		} {
+			trigger = { has_dna = { eye_color = 2/8 } }
+			apply_patch = ws_eyecolor2
+		} {
+			trigger = { has_dna = { eye_color = 3/8 } }
+			apply_patch = ws_eyecolor3
+		} {
+			trigger = { has_dna = { eye_color = 4/8 } }
+			apply_patch = ws_eyecolor4
+		} {
+			trigger = { has_dna = { eye_color = 5/8 } }
+			apply_patch = ws_eyecolor5
+		} {
+			trigger = { has_dna = { eye_color = 6/8 } }
+			apply_patch = ws_eyecolor6
+		} {
+			trigger = { has_dna = { eye_color = 7/8 } }
+			apply_patch = ws_eyecolor7
+		} {
+			trigger = { has_dna = { eye_color = 8/8 } }
+			apply_patch = ws_eyecolor8
+		} {
+			trigger = { has_dna = { hair_color = 1/7 } }
+			apply_patch = haircolor1
+		} {
+			trigger = { has_dna = { hair_color = 2/7 } }
+			apply_patch = haircolor2
+		} {
+			trigger = { has_dna = { hair_color = 3/7 } }
+			apply_patch = haircolor3
+		} {
+			trigger = { has_dna = { hair_color = 4/7 } }
+			apply_patch = haircolor4
+		} {
+			trigger = { has_dna = { hair_color = 5/7 } }
+			apply_patch = haircolor5
+		} {
+			trigger = { has_dna = { hair_color = 6/7 } }
+			apply_patch = haircolor6
+		} {
+			trigger = { has_dna = { hair_color = 7/7 } }
+			apply_patch = haircolor7
+		}
+	}
+}

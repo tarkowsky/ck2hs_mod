@@ -1,0 +1,56 @@
+{
+	trigger = {
+		OR = {
+			has_ethnicity_group = west_slavic
+			#possibly more
+		}
+	}
+	branch = {
+		{
+			trigger = { has_portrait = { 1 = 1/15 } }
+			apply_patch = hairstyle1
+		} {
+			trigger = { has_portrait = { 1 = 2/15 } }
+			apply_patch = hairstyle2
+		} {
+			trigger = { has_portrait = { 1 = 3/15 } }
+			apply_patch = hairstyle3
+		} {
+			trigger = { has_portrait = { 1 = 4/15 } }
+			apply_patch = hairstyle4
+		} {
+			trigger = { has_portrait = { 1 = 5/15 } }
+			apply_patch = hairstyle5
+		} {
+			trigger = { has_portrait = { 1 = 6/15 } }
+			apply_patch = hairstyle6
+		} {
+			trigger = { has_portrait = { 1 = 7/15 } }
+			apply_patch = hairstyle7
+		} {
+			trigger = { has_portrait = { 1 = 8/15 } }
+			apply_patch = hairstyle8
+		} {
+			trigger = { has_portrait = { 1 = 9/15 } }
+			apply_patch = hairstyle9
+		} {
+			trigger = { has_portrait = { 1 = 10/15 } }
+			apply_patch = hairstyle10
+		} {
+			trigger = { has_portrait = { 1 = 11/15 } }
+			apply_patch = hairstyle11
+		} {
+			trigger = { has_portrait = { 1 = 12/15 } }
+			apply_patch = hairstyle12
+		} {
+			trigger = { has_portrait = { 1 = 13/15 } }
+			apply_patch = hairstyle13
+		} {
+			trigger = { has_portrait = { 1 = 14/15 } }
+			apply_patch = hairstyle14
+		} {
+			trigger = { has_portrait = { 1 = 15/15 } }
+			apply_patch = hairstyle15
+		}
+	}
+}

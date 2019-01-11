@@ -1,0 +1,6 @@
+{
+	use_clothes = clothes_basic
+} {
+	trigger = { prisoner = yes }
+	use_clothes = clothes_chains
+}

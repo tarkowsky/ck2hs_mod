@@ -1,0 +1,10 @@
+female_data = {
+	patch_directory = "~\Documents\Paradox Interactive\Crusader Kings II\mod\ck2hs_mod\honey_select\patches\female"
+	output_directory = "D:\pron\HoneySelect\UserData\chara\female"
+}
+male_data = {
+	patch_directory = "~\Documents\Paradox Interactive\Crusader Kings II\mod\ck2hs_mod\honey_select\patches\male"
+	output_directory = "D:\pron\HoneySelect\UserData\chara\male"
+}
+savegame_directory = "~\Documents\Paradox Interactive\Crusader Kings II\Dark World Fantasy\save games"
+base_image_path = "~\Documents\Paradox Interactive\Crusader Kings II\mod\ck2hs_mod\image.png"
